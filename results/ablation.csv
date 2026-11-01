@@ -1,0 +1,9 @@
+özellikler,model,auc,pr_auc,f1
+puan,LogReg,0.915,0.915,0.846
+puan,LightGBM,0.925,0.931,0.853
+zaman,LogReg,0.89,0.873,0.777
+zaman,LightGBM,0.892,0.887,0.782
+metin,LogReg,0.769,0.708,0.631
+metin,LightGBM,0.769,0.734,0.654
+hepsi,LogReg,0.934,0.93,0.853
+hepsi,LightGBM,0.941,0.945,0.865
